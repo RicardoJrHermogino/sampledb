@@ -1,0 +1,107 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "task": "Harvesting coconuts",
+        "weatherRestrictions": ["Clear", "Partly Cloudy"],
+        "details": "Best done in dry weather to avoid spoilage."
+      },
+      {
+        "id": 2,
+        "task": "Cleaning coconut trees",
+        "weatherRestrictions": ["Clear", "Partly Cloudy"],
+        "details": "Avoid during heavy rain to prevent slips."
+      },
+      {
+        "id": 3,
+        "task": "Applying fertilizer",
+        "weatherRestrictions": ["Clear", "Light Rain"],
+        "details": "Should be applied before rain for better absorption."
+      },
+      {
+        "id": 4,
+        "task": "Watering coconut plants",
+        "weatherRestrictions": ["Clear", "Partly Cloudy"],
+        "details": "Water early in the morning or late in the afternoon."
+      },
+      {
+        "id": 5,
+        "task": "Inspecting for pests",
+        "weatherRestrictions": ["Clear", "Cloudy"],
+        "details": "Best done when plants are dry."
+      },
+      {
+        "id": 6,
+        "task": "Transplanting coconut seedlings",
+        "weatherRestrictions": ["Clear", "Partly Cloudy"],
+        "details": "Avoid during extreme heat or rain."
+      },
+      {
+        "id": 7,
+        "task": "Weeding around coconut trees",
+        "weatherRestrictions": ["Clear", "Partly Cloudy"],
+        "details": "Weed when the soil is moist for easier removal."
+      },
+      {
+        "id": 8,
+        "task": "Mulching for moisture retention",
+        "weatherRestrictions": ["Clear", "Light Rain"],
+        "details": "Best done before predicted rain."
+      },
+      {
+        "id": 9,
+        "task": "Checking for diseases",
+        "weatherRestrictions": ["Clear", "Partly Cloudy"],
+        "details": "Inspect plants when they are dry to see symptoms clearly."
+      },
+      {
+        "id": 10,
+        "task": "Applying pesticides",
+        "weatherRestrictions": ["Clear"],
+        "details": "Do not apply just before rain."
+      },
+      {
+        "id": 11,
+        "task": "Collecting fallen fruits",
+        "weatherRestrictions": ["Any"],
+        "details": "Can be done anytime."
+      },
+      {
+        "id": 12,
+        "task": "Preparing soil for new plants",
+        "weatherRestrictions": ["Clear", "Partly Cloudy"],
+        "details": "Best done when the soil is dry and crumbly."
+      },
+      {
+        "id": 13,
+        "task": "Setting up irrigation",
+        "weatherRestrictions": ["Clear"],
+        "details": "Avoid when rain is forecasted."
+      },
+      {
+        "id": 14,
+        "task": "Planting cover crops",
+        "weatherRestrictions": ["Clear", "Light Rain"],
+        "details": "Plant during moist conditions for better germination."
+      },
+      {
+        "id": 15,
+        "task": "Training coconut trees",
+        "weatherRestrictions": ["Clear", "Partly Cloudy"],
+        "details": "Ensure good weather for stability."
+      },
+      {
+        "id": 16,
+        "task": "Building support structures",
+        "weatherRestrictions": ["Clear"],
+        "details": "Best done in dry weather for stability."
+      },
+      {
+        "id": 17,
+        "task": "Monitoring growth",
+        "weatherRestrictions": ["Any"],
+        "details": "Can be monitored anytime."
+      }
+    ]
+  }
+  
